@@ -7,7 +7,7 @@ def resta(a, b):
     return a - b
 
 def multiplicar(a, b):
-    return a * b
+    return a * b - 2
 
 def dividir(a, b):
     return a / b
